@@ -101,7 +101,7 @@
                     </div>
                     <div class="bg-big-2">
                         <div class="icons-1-2"></div>
-						<i class="fa fa-briefcase"></i>  
+						<i class="fa fa-vial"></i>  
                     </div> 
                     <div class="bg-big-3">
                         <div class="icons-1-3"></div>
@@ -109,7 +109,7 @@
                     </div>
 					<div class="bg-medium">
                          <div class="icons-2"></div>
-						<i class="fa fa-balance-scale"></i>
+						<i class="fa fa-syringe"></i>
 					</div>
                     <div class="bg-medium-2">
                          <div class="icons-2-2"></div>
@@ -117,7 +117,7 @@
 					</div>
                     <div class="bg-smoll">
                     <div class="icons-3"></div>
-					 <i class="fa fa-wrench"></i>
+					 <i style="right:20%;" class="fa fa-thermometer"></i>
 					</div>
 				</div>
 			</div>
