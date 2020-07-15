@@ -8,7 +8,7 @@
 					<img src="img/logo%20white.png" alt="logo"><br><br>
 					<p>Recognised as a Leading manufacturer and exporter for Sterile Antibiotic Formulations globally, we have been audited and approved by various prestigious international regulatory authorities.</p>
 				</div>
-				<div class="col-sm-6 col-md-4 col-lg-2 offset-lg-1 foot-col-2 footer-col-clone" style="margin-top: 3%;">
+				<div class="col-sm-12 col-md-4 col-lg-2 offset-lg-1 foot-col-2 footer-col-clone" style="margin-top: 3%;">
 					<h3>COMPANY</h3>
 					<ul>
                         <div class="row">
@@ -41,7 +41,7 @@
 						</li>
 					</ul>
 				</div>
-                <div class="col-sm-6 col-md-4 col-lg-2 offset-lg-1 foot-col-3 footer-col-clone" style="margin-top: 3%;" style="color:white; margin-left: 5%;">
+                <div class="col-sm-12 col-md-4 col-lg-2 offset-lg-1 foot-col-3 footer-col-clone" style="margin-top: 3%;" style="color:white; margin-left: 5%;">
 					<h3>Reach us</h3>
  <p class="s-mrt-40" style="color:rgba(255, 255, 255, 0.65);"><a href="https://goo.gl/maps/JW9oEUoJVp8MU7PQ9" style="text-decoration:none; color:rgba(255, 255, 255, 0.65);"><i class="fas fa-map-marker-alt"></i> Astral Steritec Pvt. Ltd  911, G.I.D.C., Makarpura, Vadodara, Gujarat 390010</a><br>
 <i class="fas fa-phone-alt"></i> 0265 263 8063<br>
