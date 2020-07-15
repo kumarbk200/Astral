@@ -386,8 +386,10 @@ nav-menus-wrapper li{
     padding-bottom: 45px;
     margin-bottom: 3%;
     transition: 0.3s;
-    height: 230px;
 }
+
+
+
 .panel{
     margin: 8% 0;
 }
