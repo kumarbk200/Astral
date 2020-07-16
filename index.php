@@ -33,17 +33,17 @@
 			<div class="container">
 				<div class="slider-content text-center">
 					<h2 class="animated fadeInDown mb-0">
-						Your bright future<br> is our mission
+					Integrated CDMO <br> for  <br> Strategic Relationship  
 					</h2>
 					<div class="row">
 						<div class="col-md-6 col-sm-12 col-12 offset-md-3">
 							<p class="white-color animated fadeInDown">
-								Research and Development to Manufacturing and licensing- We do it all.
+							Post-discovery to commercialization cycle - we do it all under one roof.
 							</p>
 						</div>
 					</div>
 					<div class="animated fadeInUp mt-30">
-						<a href="advantage.php" class="button-primary button-lg hvr-sweep-to-right">Learn More</a>
+						<a href="partner.php" class="button-primary button-lg hvr-sweep-to-right">Learn More</a>
 					</div>
 				</div>
 			</div>
@@ -66,7 +66,7 @@
 						</div>
 					</div>
 					<div class="animated fadeInUp mt-1">
-						<a href="quality.php" class="button-white-bordered button-lg hvr-sweep-to-right">Find out more</a>
+						<a href="fill-and-finish.php" class="button-white-bordered button-lg hvr-sweep-to-right">Find out more</a>
 					</div>
 				</div>
 			</div>
@@ -91,7 +91,7 @@
 					<h1 class="innovative-title textcolor mt-5">About Us</h1><hr class="title-hr"><br>
                     
 					<h3 class="s-title">Core competence of more than three decades as a global CDMO</h3>
-					<p class="s-subtitle text-left mt-3">Globally recognized facility for sterile antibiotic injectable formulations with prestigious regulatory accreditations including WHO-India, USFDA, PIC/S, HPFBI Canada and ANVISA Brazil, with the expertise to serve as a CDMO for the range of Cephalosporin and Semi Synthetic Penicillin range of powder injectable drug products.</p>
+					<p class="s-subtitle text-left mt-3">Globally recognized facility for sterile antibiotic injectable formulations with prestigious regulatory accreditations including WHO-India, USFDA, PIC/S, HPFBI Canada and ANVISA Brazil, with the expertise to serve as a CDMO for Cephalosporin and Semi-Synthetic Penicillin range of powder injectable drug products.</p>
 					<a href="about.php" class="button-primary hvr-sweep-to-right button-md">Learn More</a>
 				</div>
 				<div class="col-sm-12 col-lg-6 offset-lg-1 cir-divs">
@@ -128,13 +128,51 @@
 width: 100%;
 height: auto;">
   <div class="container">
-    <div class="row">
-      <div class="col-12 text-center action-text" style="padding:50px 0px;">
-        <h4 class="text-white font-secondary mb-0">The Astral Advantage</h4><br>
-        <h2 class="section-title text-white">Take a peek into our Capabilities and Infrastructure</h2><br>
-        <a href="advantage.php" class="button-primary hvr-sweep-to-right button-md">Learn More</a>
-      </div>
-    </div>
+  <div class="row">
+      <div class="col-12">
+        <h2 class="textcolor" style="color:#fff !important; text-align: center;">The Astral Advantage</h2> 
+          <hr class="title1-hr" style="margin:none !important; margin-right: auto !important; margin-left:auto !important; background-color:#fff !important;">
+    		<p style="text-align:center; color:#fff">Quality Control and Product Development facilties Facilities.</p> 
+          <div class="advantage01">
+       <div class="border-1" style="box-shadow:none;"><br></div>
+          <div class="border-2" style="box-shadow:none;"><br></div>
+          <div class="border-3" style="box-shadow:none;"><br></div>
+       <div class="border-4" style="box-shadow:none;"><br></div>
+          <div class="border-5" style="box-shadow:none;"><br></div>
+          <div class="border-6" style="box-shadow:none;"><br></div>
+          <div class="border-7" style="box-shadow:none;"><br></div>
+          <div class="border-8" style="box-shadow:none;"><br></div>
+<!--            <img class="center" src="img/advantage.png" width="60%">-->
+        <div class="row adv-part">
+            <div class="col-md-3 advt-left">
+                <div class="adv0">
+            <p >Reliable, Quality Oriented &amp; Efficient performance for premier business partnership</p>
+                    </div> <br> <div class="adv2">
+            <p >Financial Discipline &amp; Reputation to ensure vendor support and supply chain efficiency</p>
+                </div><br>  <div class="adv3">
+            <p >One roof service for product development to commercialization to post launch activites</p>
+                </div><br>  <div class="adv4" style="margin-top:6%;">
+            <p >Non-Conflicting Business Plans</p>
+                </div></div> 
+                <div class="col-md-6">
+                <img src="img/advantage.png" width="100%">
+                </div>
+            <div class="col-md-3 advt-right">
+                <div class="adv5">
+            <p >Core Team brings a combined experience of ~100 years in the pharmaceutical industry</p>
+                </div><br><div class="adv6">
+            <p >Consistence compliance track record and cGMP enhancement</p>
+                </div><br><div class="adv7" style="margin-top:3%;">
+            <p >Leveraging economies of scale for cost effective operations</p>
+                </div><br><div class="adv8" style="margin-top:2%;">
+            <p >Integrated Supply Chain Management Capablities</p>
+                </div>
+                
+            </div>
+                
+            </div>
+        </div>
+          </div>
   </div>
 </section>
 	<!-- Features START -->
@@ -164,8 +202,8 @@ height: auto;">
 				<div class="col-md-6 col-lg-3 col-sm-6 col-12">
 					<div class="infobox s-pdl-30 s-pdr-30" style="height:100%;">
 						<i class="fas fa-check-circle"></i>
-						<h4 class="s-mrb-30 s-mrt-40">F&D & Regulatory</h4>
-						<p>Supplementing the manufacturing infrastructure compliant to regulatory accreditations, the in house capacities for soft skills and instrumentation infrastructure have been established to support new product formulation developments of the Cephalosporin and Penicillin ranges and thereby offer new product pipeline for regulatory filings.</p>
+						<h4 class="s-mrb-30 s-mrt-40">F&D and Regulatory</h4>
+						<p>Supplementing the manufacturing infrastructure compliant to regulatory accreditations, the in-house capacities and instrumentation infrastructure have been established to support new product formulation developments and new product pipeline for regulatory filings.</p>
 					</div>
 				</div>
                 	<div class="col-md-6 col-lg-3 col-sm-6 col-12">
@@ -188,10 +226,9 @@ height: auto;">
 				<div class="col-sm-12 col-md-7 col-lg-4 text-center col-centered">
 					<div class="pricing-item priceing-cheked partnering">
 						<div class="checked-border"></div>
-						<h1 class="pricing-plan s-pdt-20 textcolor">Partnering and Licensing</h1><br>
+						<h1 class="pricing-plan s-pdt-20 textcolor">State-Of-Art Infrastructure.<br> Best-In-Class Processes.</h1><br>
 						
-						<p class="pricing-info">We at Astral Steritech, pride ourselves on the organisations we have collaborated with over the years.<br><br>
-We have been associated with the various multinational pharma companies and leading Indian Pharma organisations.</p><br>
+						<p class="pricing-info">Core manufacturing lines and release testing facilities are equipped with state-of-art technologies from leading pharmaceutical equipment manufacturers to ensure quality and the highest efficiency for all the process stages.</p><br>
 						
 						<a href="partner.php" class="button-primary hvr-sweep-to-right button-md">Learn More</a>
 					</div>
@@ -214,40 +251,41 @@ We have been associated with the various multinational pharma companies and lead
 				<div class="col-md-6 col-lg-3 col-sm-6 col-12 text-center">
 					<div class="servicesboxs">
 						<img src="img/service/CDMO%201.png" class="mb-4" alt="services-1">
-						<p class="service-link"><a href="#" class="services-title">Aspetic Fill &amp; FInish</a></p>
-						<p class="services-subtitle">Astral SteriTech has extensive experience in the aseptic processes for manufacturing small volume beta-lactam powder injectables.</p>
+						<p class="service-link"><a href="#" class="services-title">Aseptic Fill &amp; FInish</a></p>
+						<p class="services-subtitle">With a proven expertise, a strong track record and tried-and-true processes, Astral SteriTech offers clinical and commercial Fill & Finish services for antibiotic powder injectables, from formulation to packaging.<br><br></p>
 						<a href="fill-and-finish.php" class="button-primary hvr-sweep-to-right button-md">Learn More</a>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 col-sm-6 col-12 text-center">
 					<div class="servicesboxs">
 						<img src="img/service/CDMO%202.png" class="mb-4" alt="services-2">
-						<p class="service-link"><a href="#" class="services-title">Regulatory</a></p>
-						<p class="services-subtitle">Astral Steritech has created a culture of quality through well-defined protocols and SOPs strengthened further by regular training on quality and compliance.</p>
-						<a href="services.php" class="button-primary hvr-sweep-to-right button-md">Learn More</a>
+						<p class="service-link"><a href="#" class="services-title">Quality</a></p>
+						<p class="services-subtitle">Our integrated approach to quality through our one Quality System and strategic quality plan, together with our culture of continuous improvement ensures compliance with the ever changing regulatory requirements and expectations from our customers.</p>
+						<a href="quality.php" class="button-primary hvr-sweep-to-right button-md">Learn More</a>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 col-sm-6 col-12 text-center">
 					<div class="servicesboxs">
 						<img src="img/service/CDMO%203.png" class="mb-4" alt="services-3">
-						<p class="service-link"><a href="#" class="services-title">Analytical</a></p>
-						<p class="services-subtitle">Our extensive laboratory capacity and many years of experience make us a competent partner with a huge range of analysis solutions to offer.</p>
-						<a href="services.php" class="button-primary hvr-sweep-to-right button-md">Learn More</a>
+						<p class="service-link"><a href="#" class="services-title">Regulatory</a></p>
+						<p class="services-subtitle">Our regulatory team, provides expert clinical & regulatory support through all phases of drug development and product lifecycle. We have extensive experience with compiling, filing and maintaining product registrations for various regulated and semi-regulated markets. </p>
+						<a href="regulatory.php" class="button-primary hvr-sweep-to-right button-md">Learn More</a>
 					</div>
 				</div>
                 
                 <div class="col-md-6 col-lg-3 col-sm-6 col-12 text-center">
 					<div class="servicesboxs">
 						<img src="img/service/CDMO%204.png" width="100%" height="100%" class="mb-4" alt="services-3" >
-						<p class="service-link"><a href="#" class="services-title">Quality</a></p>
-						<p class="services-subtitle">Astral ensures strict adherence to SOPs, protocols and policies through installation of an Electronic Documentation System (EDS).</p>
-						<a href="quality.php" class="button-primary hvr-sweep-to-right button-md">Learn More</a>
+						<p class="service-link"><a href="#" class="services-title">Product Development</a></p>
+						<p class="services-subtitle">Formulation development and analytical development conducted as per global regulatory guidelines through in-house quality controlled designs using Quality by Design & Design of Experiment concept.<br><br><br></p>
+						<a href="analytical.php" class="button-primary hvr-sweep-to-right button-md">Learn More</a>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 	<!-- Services END -->
-	
+
+
 	
 	<?php include('footer.php') ?>

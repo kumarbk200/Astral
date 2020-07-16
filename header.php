@@ -101,12 +101,12 @@
                 </li>
                <li><a href="#">Services</a>
                 <ul class="nav-dropdown">
-						<li><a href="advantage.php">Astral Advantages</a></li>
+						<!-- <li><a href="advantage.php">Astral Advantages</a></li> -->
                     <li><a href="fill-and-finish.php">Aseptic Fill and Finish</a></li>	
-						<li><a href="analytical.php">Analytical</a></li>
-                    <li><a href="quality.php">Quality System</a></li>	
+						<li><a href="quality.php">Quality</a></li>
+                    <li><a href="regulatory.php">Regulatory</a></li>	
                     
-                    <li><a href="regulatory.php">Regulatory</a></li>
+                    <li><a href="analytical.php">Analytical</a></li>
 					</ul>
                 </li>
 				<li><a href="partner.php">Strategic Alliance</a>

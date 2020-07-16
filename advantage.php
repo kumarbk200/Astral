@@ -28,34 +28,34 @@
           <div class="border-7"><br></div>
           <div class="border-8"><br></div>
 <!--            <img class="center" src="img/advantage.png" width="60%">-->
-          <div class="row adv-part">
-          <div class="col-md-3 advt-left">
-              <div class="adv0">
-           <p >Reliable, Quality Oriented &amp; Efficient performance for premier business partnership</p>
-                  </div> <br> <div class="adv2">
-          <p >Financial Discipline &amp; Reputation to ensure vendor support and supply chain efficiency</p>
-              </div><br>  <div class="adv3">
-          <p >One roof service for product development to commercialization to post launch activites</p>
-              </div><br>  <div class="adv4" style="margin-top:6%;">
-          <p >Non-Conflicting Business Plans</p>
-              </div></div> 
-              <div class="col-md-6">
-              <img src="img/advantage.png" width="100%">
-              </div>
-          <div class="col-md-3 advt-right">
-              <div class="adv5">
-           <p >Core Team brings a combined experience of ~100 years in the pharmaceutical industry</p>
-              </div><br><div class="adv6">
-          <p >Consistence compliance track record and cGMP enhancement</p>
-              </div><br><div class="adv7" style="margin-top:3%;">
-          <p >Leveraging economies of scale for cost effective operations</p>
-              </div><br><div class="adv8" style="margin-top:2%;">
-          <p >Integrated Supply Chain Management Capablities</p>
-              </div>
-            
-          </div>
-             
-          </div>
+        <div class="row adv-part">
+            <div class="col-md-3 advt-left">
+                <div class="adv0">
+            <p >Reliable, Quality Oriented &amp; Efficient performance for premier business partnership</p>
+                    </div> <br> <div class="adv2">
+            <p >Financial Discipline &amp; Reputation to ensure vendor support and supply chain efficiency</p>
+                </div><br>  <div class="adv3">
+            <p >One roof service for product development to commercialization to post launch activites</p>
+                </div><br>  <div class="adv4" style="margin-top:6%;">
+            <p >Non-Conflicting Business Plans</p>
+                </div></div> 
+                <div class="col-md-6">
+                <img src="img/advantage.png" width="100%">
+                </div>
+            <div class="col-md-3 advt-right">
+                <div class="adv5">
+            <p >Core Team brings a combined experience of ~100 years in the pharmaceutical industry</p>
+                </div><br><div class="adv6">
+            <p >Consistence compliance track record and cGMP enhancement</p>
+                </div><br><div class="adv7" style="margin-top:3%;">
+            <p >Leveraging economies of scale for cost effective operations</p>
+                </div><br><div class="adv8" style="margin-top:2%;">
+            <p >Integrated Supply Chain Management Capablities</p>
+                </div>
+                
+            </div>
+                
+            </div>
         </div>
           </div>
           <div class="advantage02">

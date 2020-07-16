@@ -2367,7 +2367,7 @@ top: 30px;
     width: 350px;
     height: 65px;
         background-color: #FFFFFF;
-  box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8);
+  /* box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8); */
     border-radius: 50px;
       position: absolute;
     top: 26%;
@@ -2452,7 +2452,7 @@ top: 30px;
     width: 350px;
     height: 65px;
    background-color: #FFFFFF;
-  box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8);
+  /* box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8); */
     border-radius: 50px;
       position: absolute;
     top: 44.5%;
@@ -2462,7 +2462,7 @@ top: 30px;
     width: 350px;
     height: 65px;
      background-color: #FFFFFF;
-  box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8);
+  /* box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8); */
     border-radius: 50px;
       position: absolute;
     top: 61.8%;
@@ -2472,7 +2472,7 @@ top: 30px;
     width: 350px;
     height: 45px;
      background-color: #FFFFFF;
-  box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8);
+  /* box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8); */
     border-radius: 50px;
       position: absolute;
     top: 81.8%;
@@ -2482,7 +2482,7 @@ top: 30px;
     width: 350px;
     height: 55px;
     background-color: #FFFFFF;
-  box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8);
+  /* box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8); */
     border-radius: 50px;
       position: absolute;
     top: 83%;
@@ -2493,7 +2493,7 @@ right: 0px;
     width: 350px;
     height: 55px;
      background-color: #FFFFFF;
-  box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8);
+  /* box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8); */
     border-radius: 50px;
       position: absolute;
     top: 63%;
@@ -2504,7 +2504,7 @@ right: 0px;
     width: 350px;
     height: 55px;
    background-color: #FFFFFF;
-  box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8);
+  /* box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8); */
     border-radius: 50px;
       position: absolute;
     top: 43.5%;
@@ -2515,7 +2515,7 @@ right: 0px;
     width: 350px;
     height: 55px;
    background-color: #FFFFFF;
-  box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8);
+  /* box-shadow: 0 4px 4px rgba(221, 215, 215, 0.8); */
     border-radius: 50px;
       position: absolute;
     top: 26.9%;
