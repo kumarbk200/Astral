@@ -4194,6 +4194,10 @@ right: 0px;
   margin: 0px;
 }
 
+.counters>#counter>.col-lg-3.col-sm-6>.counter>.icon{
+  color: #8799a3; display:inline-block;left: 0; top:10px;
+}
+
 
 @media (max-width: 991px) {
   .process-steps-xs li:first-child{
