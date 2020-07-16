@@ -217,8 +217,8 @@
 			<i class="fa fa-globe" style="font-size:70px;" aria-hidden="true"></i>
 		</div>
 		<div class="counter-text" style="padding-left:15px; display:inline-block;max-width:160px;">
-			<div class="timer count-title counter-value" data-count="36" style="text-align:left; margin:0;">36</div>
-			<div class="text" style="text-align:left; font-weight: 700;">Global Presence</div>
+			<h2 class="timer count-title counter-value" data-count="36" style="text-align:left; margin:0;">0</h2>
+			<p class="text" style="text-align:left; font-weight: 700;">Global Presence</p>
 		</div>
 	</div>
 </div>	
@@ -229,8 +229,8 @@
 			<i class="fa fa-th-large" style="font-size:70px;" aria-hidden="true"></i>
 		</div>
 		<div class="counter-text" style="padding-left:15px; display:inline-block; max-width:160px;">
-			<div class="timer count-title counter-value" data-count="80" style="text-align:left; margin:0;">80</div>
-			<div class="text" style="text-align:left; font-weight: 700;">Available Dossiers</div>
+			<h2 class="timer count-title counter-value" data-count="80" style="text-align:left; margin:0;">0</h2>
+			<p class="text" style="text-align:left; font-weight: 700;">Available Dossiers</p>
 		</div>
     </div>
     </div>
@@ -240,8 +240,8 @@
 				<i class="fa fa-vial" style="font-size:70px;" aria-hidden="true"></i>
 			</div>
 			<div class="counter-text" style="padding-left:15px; display:inline-block;max-width:160px;">
-				<div class="timer count-title counter-value" data-count="136" style="text-align:left; margin:0;">136</div>
-				<div class="text" style="text-align:left; font-weight: 700;">Manufacturing Capacity in Millions of Vials </div>
+				<h2 class="timer count-title counter-value" data-count="136" style="text-align:left; margin:0;">0</h2>
+				<p class="text" style="text-align:left; font-weight: 700;">Manufacturing Capacity in Millions of Vials </p>
 			</div>
 		</div>
 	</div>
@@ -251,8 +251,8 @@
 				<i class="fa fa-user-o" style="font-size:70px;" aria-hidden="true"></i>
 			</div>
 			<div class="counter-text" style="padding-left:15px; display:inline-block;max-width:160px;">
-				<div class="timer count-title counter-value" data-count="100" style="text-align:left; margin:0;">100</div>
-				<div class="text" style="text-align:left; font-weight: 700;">Leadership Team with Total Years of Pharma Experience</div>
+				<h2 class="timer count-title counter-value" data-count="100" style="text-align:left; margin:0;">0</h2>
+				<p class="text" style="text-align:left; font-weight: 700;">Leadership Team with Total Years of Pharma Experience</p>
 		</div>
 	</div>
     </div></div>
