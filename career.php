@@ -154,7 +154,7 @@
   <div class="container">
       <div class="apply-div">
         <div>
-            <h2 class="textcolor"> Apply for a position at Astral SteriTech</h2><hr class="title1-hr ml-auto mr-auto"><br>
+            <h2 class="textcolor text-center"> Apply for a position at Astral SteriTech</h2><hr class="title1-hr ml-auto mr-auto"><br>
         </div>
       </div>
       <div class="apply-div">
