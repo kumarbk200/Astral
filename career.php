@@ -267,7 +267,7 @@
                         </form>
                     </div>
                     <div class="modal-footer justify-content-center">
-                        <button type="submit"><a href="#" class="button-primary hvr-sweep-to-right button-sm" data-target="#formModal" data-toggle="modal">Submit</a></button>
+                        <button type="submit" style="background:none; border:none"><a href="#" class="button-primary hvr-sweep-to-right button-sm" data-target="#formModal" data-toggle="modal" style="font-size:1rem;">Submit</a></button>
                         <!-- <input id="submit-btn" class="button-primary hvr-sweep-to-right button-sm" type="submit" value="Apply Now"> -->
                     </div>
                 </div>
