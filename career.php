@@ -20,7 +20,7 @@
 
 
 <!-- Page Title START -->
-<div class="page-title-section" style="background-image: url('img/banner/careerbg.png');">
+<div class="page-title-section" style="background-image: url('img/banner/join3.jpg'),url('img/banner/join2.jpg'),url('img/banner/join1.jpg') ;">
 	<div class="black-overlay-70"></div>
 	<div class="container">
 		<h1>Join Our Team</h1><br>
