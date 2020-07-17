@@ -16,59 +16,6 @@
       align-items: center;
   }
 
-  /* .form-section form>div{
-    width: 50%;
-  } */
-
-  .form-section form label{
-    margin-top: 30px;
-    background: none;
-  }
-
-  .form-section form input{
-    border:none;
-    border-bottom: 1px solid grey;
-    width: 100%;
-    background: none;
-  }
-  
-
-  .form-section form select{
-    width: 100%;
-    border: 1px solid grey;
-    background: none;
-  }
-
-  .form-section form textarea{
-    width:100%;
-    margin-top: 40px;
-    background: none;
-  }
-
-  .form-section #formModal form  .modal-footer #submit-btn{
-    padding: 15px 30px;
-    margin-top: 30px;
-    width: 30%;
-    font-size: 1rem; 
-    background: #0067da;
-    border:none;
-  }
-
-  .form-section form #file{
-    border:none;
-    background: none;
-  }
-
-  @media (max-width:767px){
-    .form-section form>div{
-      width: 100%;
-    }
-    .form-section form input,.form-section form select,.form-section form textarea{
-      width: 100%;
-    }
-  }
-
-
 </style>
 
 
@@ -225,19 +172,19 @@
                         <form action="">
                             <div class="form-group">
                                 <label for="fname">First name:</label><br>
-                                <input type="text" id="fname" name="fname" required><br>
+                                <input class="form-control" type="text" id="fname" name="fname" required><br>
                             </div>
                             <div class="form-group">
                                 <label for="lname">Last name:</label><br>
-                                <input type="text" id="lname" name="lname" required><br>
+                                <input class="form-control" type="text" id="lname" name="lname" required><br>
                             </div>
                             <div class="form-group">
                                 <label for="email">Email Id:</label><br>
-                                <input type="email" id="email" name="email" required><br>
+                                <input  class="form-control" type="email" id="email" name="email" required><br>
                             </div>
                             <div class="form-group">
                                 <label for="depOfInterest">Department of Interest:</label><br>
-                                <select id="interests" name="interests" required>
+                                <select class="form-control" id="interests" name="interests" required>
                                     <option value="Production">Production</option>
                                     <option value="Quality Assurance">Quality Assurance</option>
                                     <option value="Quality Control">Quality Control</option>
@@ -255,14 +202,14 @@
                             </div>
                             <div class="form-group">
                                 <label for="currPosition">Current Position:</label><br>
-                                <input type="text" id="currposition" name="currposition" required><br>
+                                <input class="form-control" type="text" id="currposition" name="currposition" required><br>
                             </div>
                             <div class="form-group">
-                                <textarea rows="4" name="message" form="" placeholder=" Comments"></textarea><br>
+                                <textarea class="form-control" rows="4" name="message" form="" placeholder=" Comments"></textarea><br>
                             </div>
                             <div class="form-group">
                                 <label for="upload">Upload CV :</label><br>
-                                <input id="file" type="file" name="file" required><br>
+                                <input  id="file" type="file" name="file" required><br>
                             </div>
                         </form>
                     </div>
@@ -274,42 +221,6 @@
             </div>
       </div>
       
-      <!-- <h2 class="textcolor">Apply Now</h2><hr class="title1-hr"><br> -->
-      <!-- <form method="post" action="" enctype="multipart/form-data">
-        <div>
-        <label for="fname">First name:</label><br>
-        <input type="text" id="fname" name="fname" required><br>
-        <label for="lname">Last name:</label><br>
-        <input type="text" id="lname" name="lname" required><br>
-        <label for="email">Email Id:</label><br>
-        <input type="email" id="email" name="email" required><br>
-        <label for="depOfInterest">Department of Interest:</label><br>
-        <select id="interests" name="interests" required>
-            <option value="Production">Production</option>
-            <option value="Quality Assurance">Quality Assurance</option>
-            <option value="Quality Control">Quality Control</option>
-            <option value="Warehouse/Stores">Warehouse/Stores</option>
-            <option value=" PPIC/Purchase"> PPIC/Purchase</option>
-            <option value="Import & Export">Import & Export</option>
-            <option value="Business Development">Business Development</option>
-            <option value="HR & Admin">HR & Admin</option>
-            <option value="IT"> IT</option>
-            <option value="Engineering">Engineering</option>
-            <option value="EHS">EHS</option>
-            <option value="Other">Other</option>
-            
-          </select><br>
-          <label for="currPosition">Current Position:</label><br>
-          <input type="text" id="currposition" name="currposition" required><br>
-          <textarea rows="4" name="message" form="" placeholder=" Comments"></textarea><br>
-          <label for="upload">Upload CV :</label><br>
-          <input id="file" type="file" name="file" required><br>
-
-          <div>
-         
-          <input id="submit-btn" class="button-primary hvr-sweep-to-right button-sm" type="submit" value="Apply Now">
-        </div>
-      </form> -->
   </div>
 
 </section> 
