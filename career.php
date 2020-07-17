@@ -214,7 +214,7 @@
         <a href="#" class="button-primary hvr-sweep-to-right button-sm" data-target="#formModal" data-toggle="modal">Apply Now</a>
       </div>
       
-      <div class="modal" id="formModal">
+      <div class="modal fade" id="formModal">
             <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
                     <div class="modal-header">
