@@ -23,34 +23,34 @@ Our cleanroom facilities and aseptic processes are designed to minimize contamin
 From the early pre-development studies to the final commercial supply and post launch activities, we design, develop and provide tailored services to fit our customer’s quality and regulatory expectations.</p>
         </div> 
         <div class="service-img1">
-            <h1>Core Services</h1>
-        <img class="img-fluid" src="img/cdmo/core.png"  alt="sevice-img">
+            <h1>Core Competency</h1>
+        <img class="img-fluid" src="img/cdmo/web1.png"  alt="sevice-img">
      
             
             </div>
         <div class="service-img1">
             <h1>Pre Development</h1>
-        <img class="img-fluid" src="img/cdmo/pre.png"  alt="sevice-img">
+        <img class="img-fluid" src="img/cdmo/web2.png"  alt="sevice-img">
      
             
             </div>
         <div class="service-img1">
-            <h1>Commercial Supply</h1>
-        <img class="img-fluid" src="img/cdmo/com.png"  alt="sevice-img">
+            <h1>Commercial Scale</h1>
+        <img class="img-fluid" src="img/cdmo/web3.png"  alt="sevice-img">
      
             
             </div>
         <div class="service-img2">
-             <h1>Core Services</h1>
-        <img class="img-fluid" src="img/cdmo/core_mob.png" alt="sevice-img"> 
+             <h1>Core Competency</h1>
+        <img class="img-fluid" src="img/cdmo/mob1.png" alt="sevice-img"> 
           </div>    
         <div class="service-img2">
              <h1>Pre Development</h1>
-        <img class="img-fluid" src="img/cdmo/pre_mob.png" alt="sevice-img"> 
+        <img class="img-fluid" src="img/cdmo/mob2.png" alt="sevice-img"> 
           </div>    
         <div class="service-img2">
-             <h1>Commercial Supply</h1>
-        <img class="img-fluid" src="img/cdmo/com_mob.png" alt="sevice-img"> 
+             <h1>Commercial Scale</h1>
+        <img class="img-fluid" src="img/cdmo/mob3.png" alt="sevice-img"> 
           </div>  
         </div>
                         <div class="col-md-4">
